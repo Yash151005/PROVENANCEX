@@ -7,12 +7,12 @@ Every AI-generated file gets a cryptographic certificate of origin and a tamper-
 
 ---
 
-## Quick links (fill every `TODO` before submitting)
+## Quick links 
 
 | What | Link |
 |---|---|
 | Live app | TODO: https://your-app.vercel.app |
-| Public repo | TODO: https://github.com/YOUR_USER/provenancex |
+| Public repo |https://github.com/Yash151005/PROVENANCEX |
 | Contract (Monad Testnet) | TODO: `0x...` ([explorer](https://testnet.monadexplorer.com/address/0x...)) |
 | Contract source verified | TODO: explorer link to verified source |
 | Contract (Monad Mainnet, bonus) | TODO: `0x...` or "not deployed" |
